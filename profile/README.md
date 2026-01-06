@@ -23,4 +23,4 @@
 - 웹 & 앱 클라이언트
 - 인프라 및 운영 도구
 
-👉 [Contributing Guide](https://github.com/subwaynow/.github/profile/CONTRIBUTING.md)
+👉 [Contributing Guide](https://github.com/subwaynow/.github/blob/main/profile/CONTRIBUTING.md)
