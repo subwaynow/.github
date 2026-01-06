@@ -22,3 +22,5 @@
 - API / 백엔드 시스템
 - 웹 & 앱 클라이언트
 - 인프라 및 운영 도구
+
+👉 [Contributing Guide](https://github.com/subwaynow/.github/blob/main/CONTRIBUTING.md)
